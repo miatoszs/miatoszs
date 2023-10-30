@@ -1,7 +1,6 @@
 <p align="center">
  <a href="https://discordapp.com/users/780882185896591360">
     <img alt="bot" src="https://cdn.discordapp.com/attachments/718452489342550037/1051838923120320512/Screenshot_from_2022-12-12_13-31-37.png"></a>
- <script src="https://tryhackme.com/badge/92021"></script>
 </p>
 <p>
 LANGUAGES
